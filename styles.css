@@ -71,6 +71,8 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     color: var(--transparent-white);
+    border-radius: 0.4rem;
+    overflow: hidden;
    }
 
    section {
